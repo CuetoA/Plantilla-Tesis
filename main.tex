@@ -1,0 +1,46 @@
+\documentclass[letterpaper,11pt]{Constructor/perdidos/upiita}
+\usepackage{Constructor/configuracion/upiitatesis}
+
+% Llenando datos de portada
+\input{0 Preliminar/0.1 Portada}
+\makeindex
+
+
+\begin{document}
+
+
+\frontmatter
+\portada
+\acta
+\cambiamargen
+\dedicatoria              %%%modificar archivo dedica.tex
+\agradecimientos          %%%modificar archivo agradece.tex
+\tabladecontenido
+\listadefiguras
+\listadetablas
+
+%Preliminar
+\input{0 Preliminar/0.7 Abreviaturas}
+\input{0 Preliminar/0.8 Simbologia}
+\input{0 Preliminar/0.9 Resumen y abstract}
+%Inicial
+\input{1 Inicial/1.0 Introduccion}
+%Media
+\mainmatter
+\input{2 Media/2.0 Media}
+%Final
+\input{3 Final/3.0 Final}
+%Adicional
+\input{4 Adicional/4.0 Adicional}
+
+\newpage
+
+
+
+
+
+
+
+
+
+\end{document}
