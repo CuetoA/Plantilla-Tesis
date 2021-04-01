@@ -14,3 +14,5 @@ Si estás agradecido, síguenos en Linkedin, posiblemente nos pueda ser de utili
 - Marco Solís -> linkedin.com/in/marco-solís \\
 - Mayra Uraga -> linkedin.com/in/mayra-uraga-36a82020a  \\
 - Grecia Rocío Herrera Andrade -> linkedin.com/in/grecia-rocío-herrera-andrade \\
+
+Plantilla en Overleaf: https://www.overleaf.com/read/bgpzrdssyddy
