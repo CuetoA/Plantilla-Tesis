@@ -1,0 +1,78 @@
+18 Patch Control
+
+1
+1
+1
+Principal.tex
+13
+0
+0
+
+apendices\apendice3.tex
+TeX
+269496315 0 -1 0 -1 0 0 0 319 374 0 1 40 0 -1 -1 0 0 42 -1 -1 42 1 0 0 -1  0 -1 0
+apendices\anexo3.tex
+TeX
+1060859 0 -1 0 -1 0 0 0 820 374 0 1 40 0 -1 -1 0 0 26 -1 -1 26 1 0 0 -1  0 -1 0
+capitulos\diseconceptual.tex
+TeX
+1060859 0 -1 0 -1 0 150 150 970 524 0 1 40 0 -1 -1 0 0 29 -1 -1 29 1 0 0 -1  0 -1 0
+capitulos\modelomatematico.tex
+TeX
+1060859 0 -1 0 -1 0 125 125 945 499 0 1 40 0 -1 -1 0 0 69 -1 -1 69 1 0 0 -1  0 -1 0
+apendices\anexo1.tex
+TeX
+1060859 0 -1 0 -1 0 25 25 344 399 0 1 40 0 -1 -1 0 0 32 -1 -1 32 1 0 0 -1  0 -1 0
+preliminares\Resumen.tex
+TeX
+1060859 0 -1 0 -1 0 75 75 895 449 0 1 40 0 -1 -1 0 0 17 -1 -1 17 1 0 0 -1  0 -1 0
+Principal.tex
+TeX:ES
+420491259 0 127 26 -1 1568 132 132 730 540 1 1 699 480 -1 0 0 45 130 -1 -1 2518 1 0 1568 -1  0 -1 0
+XBiblioteca.bib
+BibTeX
+269485042 0 0 1 11 75 220 220 1571 713 0 1 558 176 -1 -1 0 0 75 3 3 75 1 0 75 11  0 -1 0
+upiita.cls
+TeX:STY
+269496306 0 788 26 762 51 154 154 752 562 0 0 374 256 -1 0 0 3 0 0 3 1 1 0 51 762  0 0 0
+apendices\apendice1.tex
+TeX
+269496315 0 -1 0 -1 0 50 50 369 424 0 1 40 0 -1 -1 0 0 22 -1 -1 22 1 0 0 -1  0 -1 0
+configuracion\upiitatesis.sty
+TeX:STY
+269496306 0 432 1 423 17 125 125 743 499 0 0 136 0 -1 -1 0 0 32 0 0 32 1 0 17 423  0 0 0
+C:\Program Files\WinEdt Team\WinEdt 9\Exec\PDF\PDFCloseDoc.edt
+ASCII:EDT
+269494138 7 51 752 51 1 150 150 768 524 1 0 67 256 -1 -1 0 0 -1 -1 -1 -1 1 0 1 51  0 0 0
+Principal.toc
+TeX:AUX
+269496306 0 0 1 33 29 125 125 978 592 0 0 248 510 -1 -1 0 0 -1 -1 -1 -1 1 0 29 33  0 0 0
+
+*Principal.tex
+>
+*preliminares/Resumen
+*preliminares/Nomenclatura
+*preliminares/Simbologia
+*preliminares/objetivos
+*preliminares/introduccion
+*capitulos/Metodologia
+*capitulos/diseconceptual
+*capitulos/disedetallado
+>
+*capitulos/modeloestructural
+*capitulos/modelomatematico
+<
+*capitulos/validacion
+>
+*capitulos/modeloestructural
+*capitulos/modelomatematico
+<
+*capitulos/conclusiones
+*xbiblioteca
+*apendices/apendice1
+*apendices/apendice2
+*apendices/apendice3
+*apendices/anexo1
+*apendices/anexo2
+*apendices/anexo3
+<

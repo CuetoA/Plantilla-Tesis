@@ -1,0 +1,18 @@
+%\formatodoc
+%\include{configuracion/estilodoc}
+\pagestyle{fancy}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\renewcommand{\sectionmark}[1]{\markright{#1}}
+\fancyhfoffset[R]{-10pt}
+%\addtolength{\headwidth}{-3pt}
+\renewcommand\headrule{\hrulefill
+	\raisebox{-2.1pt}[10pt][10pt]{\quad\decofourleft\decotwo\decofourright\quad}\hrulefill}
+\fancyhf{}
+\fancyhead[RO]{\rightmark}
+\fancyhead[LE]{\leftmark}
+\fancyhead[LO,RE]{}
+\fancyfoot{}
+\fancyfoot[RO,LE]{\thepage}
+\fancyfoot[CO]{UPIITA}
+\fancyfoot[CE]{IPN}
+\fancyfoot[RE,LO]{Ing. Mecatrónica}
