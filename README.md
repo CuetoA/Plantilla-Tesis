@@ -14,7 +14,7 @@ Plantilla en Overleaf: https://www.overleaf.com/read/bgpzrdssyddy
 
 Si estás agradecido, síguenos en Linkedin, posiblemente nos pueda ser de utilidad a todos:
 
-- Andres Cueto -> [LinkedIn](linkedin.com/in/andres-cueto-4785b11b3)
-- Marco Solís -> [LinkedIn](linkedin.com/in/marco-solís) 
-- Mayra Uraga -> [LinkedIn](linkedin.com/in/mayra-uraga-36a82020a)  
-- Grecia Rocío Herrera Andrade -> [LinkedIn](linkedin.com/in/grecia-rocío-herrera-andrade)
+- Andres Cueto -> https://www.linkedin.com/in/andres-cueto-estrada-4785b11b3/
+- Marco Solís -> https://www.linkedin.com/in/marco-sol%C3%ADs/
+- Mayra Uraga -> https://www.linkedin.com/in/mayra-uraga-36a82020a/
+- Grecia Rocío Herrera Andrade -> https://www.linkedin.com/in/grecia-roc%C3%ADo-herrera-andrade/
