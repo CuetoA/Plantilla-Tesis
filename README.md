@@ -8,7 +8,7 @@ Esta plantilla tiene como objetivo reducir y ahorrar tiempo para ti, esperamos q
 Los capítulos están indicados por números para mantener su orden según la estructura final de la tesis, presentada en la imagen \textbf{``ESTRUCTURA REPORTE TT-2 (REV-TT1)"} dentro de la carpeta \textbf{``OJO DOCUMENTOS ESTRUCTURA DE TESIS".}
 
 ## Overleaf
-Plantilla en Overleaf: https://www.overleaf.com/read/bgpzrdssyddy
+Plantilla en Overleaf: https://www.overleaf.com/8136286689vcwxystrrhxm
 
 ## Contribuidores
 
